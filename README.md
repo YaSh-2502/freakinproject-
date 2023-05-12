@@ -9,7 +9,7 @@
 
   KIT car rental is fully responsive car rental website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://freakinproject.github.io/ridex/"><strong>➥ Live Demo</strong></a>
+  <a href=""><strong>➥ Live Demo</strong></a>
 
 </div>
 
