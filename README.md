@@ -15,7 +15,7 @@
 
   Ridex is fully responsive car rental website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/ridex/"><strong>➥ Live Demo</strong></a>
+  <a href="https://freakinproject.github.io/ridex/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -33,23 +33,17 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Ridex** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/ridex.git
-```
+To run KIT car rental locally,:
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/ridex.git
+git clone https://github.com/freakinporject/yash.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+
 
 ### License
 
