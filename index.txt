@@ -1,4 +1,4 @@
-Ridex - Rent your favourite car
+KIT car rental - Rent your favourite car
 
 
 # HEADER
@@ -205,9 +205,9 @@ New rules for handling our cars
 
 # FOOTER
 
-alt = Ridex logo
+alt = KIT car rental logo
 
-Search for cheap rental cars in New York. With a diverse fleet of 19,000 vehicles, Waydex offers its consumers an attractive and fun selection.
+Search for cheap rental cars in Tamil nadu. With a diverse fleet of 19,000 vehicles, Waydex offers its consumers an attractive and fun selection.
 
 Company
 
@@ -223,16 +223,7 @@ Ask a question
 Privacy policy
 Terms & conditions
 
-Neighborhoods in New York
-
-Manhattan
-Central New York City
-Upper East Side
-Queens
-Theater District
-Midtown
-SoHo
-Chelsea
+Neighborhoods in Tamil nadu
 
 <ion-icon name="logo-facebook"></ion-icon>
 <ion-icon name="logo-instagram"></ion-icon>

@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "c:\\Users\\M S I\\Desktop\\New folder\\car rental\\ridex-master\\index.html"
+            "file": "c:\\Users\\M S I\\Desktop\\New folder\\car rental\\Kit car rental\\index.html"
         }
     ]
 }
