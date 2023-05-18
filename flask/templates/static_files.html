@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Static Files</title>
+</head>
+<body>
+    <h1>List of Static Files:</h1>
+    <ul>
+        {% for file_path in static_files %}
+        <li>{{ file_path }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
